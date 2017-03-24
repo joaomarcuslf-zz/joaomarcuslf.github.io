@@ -28,5 +28,5 @@ exclude:
   - package.json
   - Procfile
   - node_modules/
-  - webpack.*
-  - *.lock
+  - webpack*
+  - yarn.lock
