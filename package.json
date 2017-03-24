@@ -3,7 +3,7 @@
   "version": "2.2.6",
   "description": "My personal Website",
   "scripts": {
-    "start": " npm install --silent && bundle install && gulp run:build",
+    "start": "yarn install --silent && bundle install && gulp run:build",
     "server": "bundle exec jekyll serve",
     "dev": "nf start",
     "build": "gulp run:build",
