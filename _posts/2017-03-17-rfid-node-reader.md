@@ -7,5 +7,5 @@ description: Simple implemantation to RFID scan with Node
 categories:
     - iot
     - node
-permalink: rfid-node-reader
+permalink: rfid-node-reader/
 ---

@@ -8,5 +8,5 @@ categories:
     - learning-app
     - rails
     - scss
-permalink: my-personal-webapp
+permalink: my-personal-webapp/
 ---

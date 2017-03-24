@@ -7,5 +7,5 @@ description: An Clojure REST Api built with ring
 categories:
     - api
     - clojure
-permalink: clojure-rest-api
+permalink: clojure-rest-api/
 ---

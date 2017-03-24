@@ -8,5 +8,5 @@ categories:
     - professional-app
     - react
     - javascript
-permalink: github-react-api
+permalink: github-react-api/
 ---

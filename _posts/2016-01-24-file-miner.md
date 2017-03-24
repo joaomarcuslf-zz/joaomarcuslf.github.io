@@ -7,5 +7,5 @@ description: File reader and fetcher using Ruby and Rspec
 categories:
     - learning-app
     - ruby
-permalink: file-miner
+permalink: file-miner/
 ---

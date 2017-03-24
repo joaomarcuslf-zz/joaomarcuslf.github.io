@@ -8,5 +8,5 @@ categories:
     - professional-app
     - react
     - javascript
-permalink: react-layout-test
+permalink: react-layout-test/
 ---

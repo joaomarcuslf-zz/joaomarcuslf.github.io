@@ -6,6 +6,6 @@ repo: https://github.com/joaomarcuslf/clojure-catalog-service
 description: Simple catalog API implementation
 categories:
     - api
-    -clojure
-permalink: clojure-catalog-service
+    - clojure
+permalink: clojure-catalog-service/
 ---

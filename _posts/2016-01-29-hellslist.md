@@ -8,5 +8,5 @@ categories:
     - academic-app
     - c-lang
     - data-structure
-permalink: hellslist
+permalink: hellslist/
 ---

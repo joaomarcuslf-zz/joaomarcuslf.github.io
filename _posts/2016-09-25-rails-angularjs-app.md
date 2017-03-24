@@ -10,5 +10,5 @@ categories:
     - rails
     - angularjs
     - api
-permalink: rails-angularjs-app
+permalink: rails-angularjs-app/
 ---

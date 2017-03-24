@@ -7,5 +7,5 @@ description: Simple Todo List made with Rails
 categories:
     - learning-app
     - rails
-permalink: my-todo-list
+permalink: my-todo-list/
 ---

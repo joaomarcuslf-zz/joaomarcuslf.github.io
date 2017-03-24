@@ -8,5 +8,5 @@ categories:
     - telegram-bot
     - clojure
     - iot
-permalink: rasp-monitor-bot
+permalink: rasp-monitor-bot/
 ---

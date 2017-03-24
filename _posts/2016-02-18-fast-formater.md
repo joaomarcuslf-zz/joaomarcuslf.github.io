@@ -7,5 +7,5 @@ description: Simple Json and XML formatter made with Ruby
 categories:
     - learning-app
     - ruby
-permalink: fast-formater
+permalink: fast-formater/
 ---
