@@ -1,3 +1,7 @@
+npm-debug.log
+.nuxt
+dist
+
 /node_modules
 /_site
 /fonts

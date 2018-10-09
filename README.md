@@ -1,32 +1,23 @@
-# @joaomarcuslf
+# joaomarcuslf.github.io
 
-This is my personal website
+> Nuxt.js project
 
-## Dependencies:
+## Build Setup
 
-- Jekyll
-- NPM
-- Yarn
+``` bash
+# install dependencies
+$ npm install # Or yarn install
 
-## Scripts
+# serve with hot reload at localhost:3000
+$ npm run dev
 
-### Getting Started
+# build for production and launch server
+$ npm run build
+$ npm start
 
-After cloning the project
-```
-yarn start
-```
-
-### Starting development
-
-Will start foreman
-```
-yarn dev
+# generate static project
+$ npm run generate
 ```
 
-### Building for production
+For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
 
-Will bundle all files
-```
-yarn build
-```
